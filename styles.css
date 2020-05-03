@@ -1,0 +1,15 @@
+body {
+  background-color: rgb(176,196,222,0.6);
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-top-width: 5px;
+  border-color: grey;
+  width: 30%;
+}
+h1 {
+  color: blue;
+  text-decoration: underline;
+
+}
